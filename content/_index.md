@@ -1,6 +1,6 @@
 ---
 title: 🪴 Quartz 3.3
-enableToc: true
+enableToc: false
 ---
 
 Hi 
