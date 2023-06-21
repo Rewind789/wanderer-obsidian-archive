@@ -1,4 +1,4 @@
-baseURL = "https://rewind789.github.io/wanderer-obsidian-archive/"
+baseURL = "rewind789.github.io/wanderer-obsidian-archive/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
