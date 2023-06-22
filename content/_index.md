@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 Hi.
-Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!.
+Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 
 This library building is from Jacky 
 
