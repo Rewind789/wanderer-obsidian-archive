@@ -3,10 +3,9 @@ title: Wanderer's Obsidian Archive
 enableToc: false
 ---
 
-Hi.
 Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 
-This library building is from Jacky 
+This library building is credited to [Jacky Zhao](https://quartz.jzhao.xyz/), who practically built the entire library you see before you!
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
@@ -25,4 +24,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+- 🐛 [Email me at ky.yuen2009@gmail.com](ky.yuen2009@gmail.com)
