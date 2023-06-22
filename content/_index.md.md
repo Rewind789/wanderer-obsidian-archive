@@ -4,7 +4,9 @@ enableToc: false
 ---
 
 Hi.
-Welcome to the Wanderer's Archive.
+Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!.
+
+This library building is from Jacky 
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
