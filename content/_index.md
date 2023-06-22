@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.3
+title: Wanderer's Obsidian Archive
 enableToc: false
 ---
 
