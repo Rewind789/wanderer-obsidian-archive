@@ -22,4 +22,3 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 ### Other Town Members
 - 🐛 [Email me at ky.yuen2009@gmail.com](ky.yuen2009@gmail.com)
-- 
