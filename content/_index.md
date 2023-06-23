@@ -3,6 +3,7 @@ title: Wanderer's Obsidian Archive
 enableToc: false
 ---
 
+_[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]_
 Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 
 >[!info] Creation
@@ -12,6 +13,7 @@ Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifact
 
 My inventory and libraries are currently in an establishment within [The Town](https://rewind789.github.io/wanderer-archive/the-town.html), an oasis, where I let my mind rest, and wander no further anymore.
 
+Here are my [notes](notes/notes), where you can find my vast inventory of library and scrolls.
 
 
 ### Other Town Members
