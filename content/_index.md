@@ -8,7 +8,10 @@ Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 >[!info] Creation
 This library building is credited to [Jacky Zhao](https://quartz.jzhao.xyz/), who practically built the entire library you see before you! This library is built on obsidian and uses quartz.
 
-Hi, I am the Wanderer. I am a member of the town.
+Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~
+
+My inventory and libraries are currently in an establishment within [The Town](https://rewind789.github.io/wanderer-archive/the-town.html), an oasis, where I let my mind rest, and wander no further anymore.
+
 
 
 ### Other Town Members
