@@ -15,4 +15,8 @@ My inventory and libraries are currently in an establishment within [The Town](
 
 
 ### Other Town Members
-- 🐛 [Email me at ky.yuen2009@gmail.com](ky.yuen2009@gmail.com)
+- [Email me at ky.yuen2009@gmail.com](ky.yuen2009@gmail.com)
+- [Donal Tony (The Merchant of Harzavad)](https://harzavad.github.io/the-merchant/)
+- [Edward (and his obsidian notes)](https://edsobsidiannotes.netlify.app/)
+- [Ajay](https://rjdjcool3.github.io/baju-s/)
+- I haven't done the others yet :/
