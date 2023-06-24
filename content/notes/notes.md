@@ -3,4 +3,4 @@ title: School Notes Archive
 enableToc: false
 ---
 ### School Notes Archive
-Here you can find my notes on stuff I learnt.
+Here you can find my notes on stuff I learnt on my many adventures.
