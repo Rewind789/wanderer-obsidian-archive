@@ -4,6 +4,7 @@ enableToc: false
 ---
 
 _[A page of his diary, of his adventures to every place on Earth. With every experience he ever had, written all in pen and paper. Within the vast libraries, many secrets still remain unseen...]_
+
 Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 
 >[!info] Creation
