@@ -11,7 +11,7 @@ This library building is credited to [Jacky Zhao](https://quartz.jzhao.xyz/), wh
 
 Hi, welcome to my vast inventory. Here in this labyrinth of scrolls and artifacts, each organised neatly, you find many different types of notes. Each and every one different and exquisite in their own way. Chemistry, physics, diaries. Enjoy your stay in this vast library. Don't get lost~
 
-My inventory and libraries are currently in an establishment within [The Town](https://rewind789.github.io/wanderer-archive/the-town.html), an oasis, where I let my mind rest, and wander no further anymore.
+My inventory and libraries are currently in an establishment within [The Town](town/TheTown), an oasis, where I let my mind rest, and wander no further anymore.
 
 Here are my [notes](notes/notes), where you can find my vast inventory of library and scrolls.
 
