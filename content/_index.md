@@ -17,7 +17,7 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 
 
 ### Other Town Members
-- [Email me at ky.yuen2009@gmail.com](ky.yuen2009@gmail.com)
+- [Email me at ky.yuen2009@gmail.com]
 - [Shan-mei](https://shan-mei.github.io/shanmeis-notes/)
 - [Donal Tony (The Merchant of Harzavad)](https://harzavad.github.io/the-merchant/)
 - [Edward (and his obsidian notes)](https://edsobsidiannotes.netlify.app/)
