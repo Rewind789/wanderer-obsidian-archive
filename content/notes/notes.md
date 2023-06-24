@@ -9,4 +9,4 @@ Here you can find my notes on stuff I learnt on my many adventures.
 > 
 > This library is still in progress. Not all notes are updated here yet!
 
-[Year 9 Notes](notes/year9/year9notes)
+[Year 9 Notes](year9notes.md)
