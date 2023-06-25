@@ -4,4 +4,7 @@ enableToc: false
 ---
 Welcome to the Science Archive. 
 
-[Chemistry](notes/year9/science/chemistry/ions) 
+> [!notes]
+> 
+> [Chemistry](notes/year9/science/chemistry/ions) 
+
