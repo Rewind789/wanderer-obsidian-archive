@@ -6,5 +6,5 @@ Welcome to the Science Archive.
 
 > [!notes] Science Content
 > 
-> [Chemistry](notes/year9/science/chemistry/ions) 
+> [Chemistry](notes/year9/science/chemistry/) 
 
