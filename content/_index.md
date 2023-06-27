@@ -7,6 +7,9 @@ _[A page of his diary, of his adventures to every place on Earth. With every exp
 
 Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 
+I AM NOT GENSHIN RELATED
+
+
 >[!info] Creation
 >
 > This library building is credited to [Jacky Zhao](https://quartz.jzhao.xyz/), who practically built the entire library you see before you! This library is built on obsidian and uses quartz.
