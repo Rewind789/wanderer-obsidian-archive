@@ -9,3 +9,5 @@ enableToc: false
 
 
 [Atomic Structure](notes/year9/science/chemistry/atomstructure.md)
+
+[Elements](notes/year9/science/chemistry/elements.md)
