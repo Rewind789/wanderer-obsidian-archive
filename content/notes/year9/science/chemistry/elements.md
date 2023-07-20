@@ -1,4 +1,7 @@
-
+---
+title: Elements
+enableToc: false
+---
 
 98 naturally occurring elements
 Only 12 elements are found in living organisms in substantial amounts
