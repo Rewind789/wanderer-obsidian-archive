@@ -6,3 +6,6 @@ enableToc: false
 
 
 [Physical and Chemical Changes](physchemchange.md)
+
+
+[Atomic Structure](notes/year9/science/chemistry/atomstructure.md)
