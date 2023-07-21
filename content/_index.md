@@ -25,7 +25,8 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 >
 >[Notes](notes.md)
 >[Articles](articles.md)
->[Quotes](quotes.md)
+>[Other](other.md)
+
 
 
 ### Other Town Members
