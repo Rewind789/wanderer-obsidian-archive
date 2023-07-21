@@ -7,3 +7,4 @@ enableToc: false
 Browse through the Year of 2023 and the Year 9 Curriculum and materials.
 
 [Science](notes/year9/science-content.md)
+[Japanese](japanese.md)
