@@ -17,7 +17,7 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 4. “meow :3” Kiefer Y
 5. “bruh” - Ethan T
 6. “Ah yes we love our concentrated lemon juice.” - Ethan T
-7. “Coles does it why can’t I do it??” - Ethan
+7. “Coles does it why can’t I do it??” - Ethan [because ur stupid but anyway...]
 8. “I have managed to get fifty dollars selling pure cups.” - Crystal L
 9. “Precisely” - Crystal L
 10. “Salutations and Greetings” - Crystal L
