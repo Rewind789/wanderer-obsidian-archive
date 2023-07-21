@@ -21,6 +21,11 @@ My inventory and libraries are currently in an establishment within [The Town](
 
 Here are my [notes](notes/notes), where you can find my vast inventory of library and scrolls. Don't forget to check my [inventory](https://www.notion.so/wanderer-inventory/Wanderer-s-Archive-551bf6d3382148678191175b1123296f?pvs=4), where my notes are carefully stored.
 
+>[!Examples] Navigation
+>[Notes](notes.md)
+>[Articles](articles.md)
+>[Quotes](quotes.md)
+
 
 ### Other Town Members
 - Email me at ky.yuen2009@gmail.com
