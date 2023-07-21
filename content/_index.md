@@ -33,7 +33,7 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 
 ### Other Town Members
 - Email me at ky.yuen2009@gmail.com
-- [Shan-mei](https://shan-mei.github.io/shanmeis-notes/)
+- [Shan-mei](https://shanmeis-notes.toomwn.xyz/)
 - [Donal Tony (The Merchant of Harzavad)](https://harzavad.github.io/the-merchant/)
 - [Edward (and his obsidian notes)](https://edsobsidiannotes.netlify.app/)
 - [Ajay](https://rjdjcool3.github.io/baju-s/)
