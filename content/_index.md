@@ -37,4 +37,5 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 - [Donal Tony (The Merchant of Harzavad)](https://harzavad.github.io/the-merchant/)
 - [Edward (and his obsidian notes)](https://edsobsidiannotes.netlify.app/)
 - [Ajay](https://rjdjcool3.github.io/baju-s/)
+- [M.Spiccata](https://spicata.99000000.xyz/)
 - I haven't done the others yet :/
