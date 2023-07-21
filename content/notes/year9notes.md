@@ -10,11 +10,11 @@ Browse through the Year of 2023 and the Year 9 Curriculum and materials.
 > 
 > [Science](notes/year9/science-content.md)
 > 
-> [Mathematics](mathematics.md)
+> [Mathematics](notes/year9/math/mathematics)
 > 
-> [Japanese](japanese.md)
+> [Japanese](notes/year9/japanese/japanese)
 > 
-> [Music](music.md)
+> [Music](notes/year9/music/music)
 
 
 
