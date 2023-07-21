@@ -23,9 +23,9 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 
 >[!Examples] Navigation
 >
->[Notes](notes.md)
+>[Notes](notes/notes)
 >
->[Articles](articles.md)
+>[Articles](articles/articles)
 >
 >[Other](other.md)
 
