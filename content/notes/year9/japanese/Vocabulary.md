@@ -1,6 +1,13 @@
 ---
-title: Japanese Vocabulary
+title: Japanese Vocabulary & Grammar
 enableToc: false
 ---
 
-### Vocab coming soon
+### Vocab & Grammar
+Not all vocab is listed here yet, I may not have updated it.
+
+>[!Summaries] Vocab Topics
+>
+>[しゅうがくりょこう](schooltrip.md)
+
+

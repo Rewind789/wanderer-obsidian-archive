@@ -7,5 +7,5 @@ enableToc: false
 
 >[!Examples] Content
 >
->[Vocabulary](vocabulary.md)
+>[Vocabulary & Grammar](vocabulary.md)
 
