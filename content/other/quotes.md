@@ -5,7 +5,9 @@ enableToc: false
 
 ## Highlight Quote
 These 2 quotes go together. They were said only an hour apart. Very suspicious
+
 132. “Two men stripped and started kissing” - Daniel T (talking about a play)
+
 133. “At this point, I’m literally bathing in glue” (a mysterious white substance) - Ethan T
 
 ### Quotes
