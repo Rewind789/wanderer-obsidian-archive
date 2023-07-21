@@ -3,7 +3,7 @@ title: Chat Names
 enableToc: false
 ---
 
-I don't have all of the stuff chat names, because unlike the Merchant of Harzavad (Donal), I'm not the "24/7 teams chat spammer" (he is), and they change it every few minutes anyway.... so here you are.
+I don't have all of the stuff chat names, because unlike the [Merchant of Harzavad (Donal)](https://harzavad.github.io/the-merchant/), I'm not the "24/7 teams chat spammer" (he is), and they change it every few minutes anyway.... so here you are.
 
 Anyway...
 [in case ur wondering, bubble tea (BBT) is my dog]
