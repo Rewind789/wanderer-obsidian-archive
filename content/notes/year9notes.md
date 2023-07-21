@@ -6,6 +6,16 @@ enableToc: false
 ### Here are my Year 9 Notes Archive
 Browse through the Year of 2023 and the Year 9 Curriculum and materials.
 
-[Science](notes/year9/science-content.md)
+> [!Examples] Content
+> 
+> [Science](notes/year9/science-content.md)
+> 
+> [Mathematics](mathematics.md)
+> 
+> [Japanese](japanese.md)
+> 
+> [Music](music.md)
 
-[Japanese](japanese.md)
+
+
+
