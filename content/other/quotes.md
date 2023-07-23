@@ -375,3 +375,5 @@ These 2 quotes go together. Mhm. Very suspicious
 335. “Anything round and from Italy is a pizza” - Kiefer Y
 336. “Lets add some hashtags” - Antonina L, referring to sharps
 337. “And if thee shall tear our holy boundings asunder, than was hast mine thus bringing not of rain, but of silt and ire”
+338. "I used to be so fat" - Donal T
+339. *talking to Harry* "Why does your name have a bracket at the end every time it appears" - Kiefer Y
