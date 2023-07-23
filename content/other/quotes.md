@@ -12,8 +12,11 @@ These 2 quotes go together. Mhm. Very suspicious
 
 ### Other Highlight Quotes
 1. "I can't make tea because my parents don't let me and I don't have a microwave" - Ethan T
+
 2. _school trip to parliament, many politicians talking over each other_ “Everyone calm down. I want to remind you that you are meant to set an example for Perth Modern School” - **Speaker in the legislative council**
+
 3. "I got hit by a car and I'm *slightly* annoyed" - Antonina L
+
 4. *walking to Mills (cooking building)* "It smells like sugar biscuits" - Arielle A, "It smells like petrol" - Ellie M
 
 
