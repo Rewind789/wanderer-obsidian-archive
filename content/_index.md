@@ -27,7 +27,8 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 >
 >[Articles](articles/articles)
 >
->[Other](other/other)
+>[Other](other/other.md)
+>
 
 
 
