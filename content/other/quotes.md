@@ -10,6 +10,22 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 
 133. “At this point, I’m literally bathing in glue” (a mysterious white substance) - Ethan T
 
+### Other Highlight Quotes
+1. "I can't make tea because my parents don't let me and I don't have a microwave" - Ethan T
+
+[Highlight Conversation]
+
+-*HASS Worksheet, where you had to talk about a place you have been, and talk about the Ecosystems there*-
+
+"I'm going to do Antarctica" - Luvenia Y
+"Hm... This image is too plain... I'll draw a polar bear" - Luvenia Y
+*Proceeds to draw a polar bear, which looks like a rat with diabetes with a Peppa pig tail*
+"Wait, is it polar bears that live in Antarctica or penguins?" - Luvenia Y
+*searches it up, polar bears live in the Arctic*
+"Dang it. Fine, I'll draw a penguin" - Luvenia Y
+*2 seconds later* "They have ears, right?" - Luvenia Y
+
+
 ### Quotes
 1. “Its supposed to be basic but its not being basic” - Seneja W
 2. “…” - Kiefer Y
