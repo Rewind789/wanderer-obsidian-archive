@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 ## Highlight Quote
-These 2 quotes go together. They were said only an hour apart. Very suspicious
+These 2 quotes go together. Mhm. Very suspicious
 
 132. “Two men stripped and started kissing” - Daniel T (talking about a play)
 
