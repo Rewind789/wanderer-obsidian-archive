@@ -201,7 +201,7 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 174. “I am an earthquake” - Donal T
 175. “When I talk, you stalk” - Dr Dre
 176. “I identify as a skizaz” - Ethan T
-177. “I’ll put you in a basket- Donal T, “I’ll put you in a fridge” - Kiefer Y, “I’ll put BOTH OF YOU in the WASHING MACHINE” - Rutvi K
+177. *argument about whether eggs go in the basket or the fridge. Donal saying they go in the fridge, me (Kiefer) saying that they go in the basket* “I’ll put you in a basket- Donal T, “I’ll put you in a fridge” - Kiefer Y, “I’ll put BOTH OF YOU in the WASHING MACHINE” - Rutvi K
 178. “THEY’RE TAKING THE HOBBITS TO ISENGARD” - Antonia L, Ellie M, and a bunch of other idiots
 179. “More nicer” - Antonina L
 180. “I’m stupid. Oh wait I was always stupid nevermind why did I say I was stupid” - Sherry C
