@@ -116,3 +116,12 @@ Ionic compound = metal + non-metal
     - HX + MOH → MX + H2O (where X and M are elements)
 - Examples
     - Sulfuric acid is used to neutralise calcium hydroxide
+
+### Precipitation Reactions
+
+>[! notes] Steps
+>1. Write out the equation, and balance it
+>2. Split all (aq) substances into their ions as they split
+>3. Cancel out all (aq) substances of both side if they are the same
+>4. You end up with the net reaction
+
