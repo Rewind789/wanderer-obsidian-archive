@@ -3,4 +3,8 @@ title: Articles
 enableToc: false
 ---
 
-[Chinese and Japanese](chinese&jap.md)
+> [!summaries] Content
+> [Chinese and Japanese](chinese&jap.md)
+> 
+> [Badminton](badminton.md)
+
