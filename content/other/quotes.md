@@ -184,7 +184,7 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 157. “Import math as idiot” - Ellie M
 158. “Coding’s so dumb that its funny” - Ellie M
 159. “This smells like a sedimentary rock” - Paxton B
-160. talking to Avash “Oh you’re one of the sad people” - Ms Ransom
+160. *talking to Avash* “Oh you’re one of the sad people” - Ms Ransom
 161. “I simp for a lot of people” - Sherry C
 162. “But y would u sell the minerals of ur body for $200 when u can sell ur organs for thousands of dollars?” - Antonina L
 163. “Anone line?” - Donal T
@@ -197,7 +197,7 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 170. “I read ‘Emotional Language’ as ‘Emotional Damage’” - Antonina L
 171. “I identify as an ice cube” - Ellie M
 172. “I speak tea language” - Ellie M
-173. “I will not be at school today because my beautiful doggie is in labour - so I will be staying at home wearing my midwife hat today.” - Ms James
+173. “I will not be at school today because my beautiful doggie is in labour - so I will be staying at home wearing my midwife hat today.” - Ms James *while at school*
 174. “I am an earthquake” - Donal T
 175. “When I talk, you stalk” - Dr Dre
 176. “I identify as a skizaz” - Ethan T
