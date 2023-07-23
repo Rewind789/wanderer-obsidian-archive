@@ -12,6 +12,7 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 
 ### Other Highlight Quotes
 1. "I can't make tea because my parents don't let me and I don't have a microwave" - Ethan T
+2. _school trip to parliament, many politicians talking over each other_ “Everyone calm down. I want to remind you that you are meant to set an example for Perth Modern School” - **Speaker in the legislative council**
 
 [Highlight Conversation]
 
