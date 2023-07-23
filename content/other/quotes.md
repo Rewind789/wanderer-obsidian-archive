@@ -18,11 +18,17 @@ These 2 quotes go together. They were said only an hour apart. Very suspicious
 -*HASS Worksheet, where you had to talk about a place you have been, and talk about the Ecosystems there*-
 
 "I'm going to do Antarctica" - Luvenia Y
+
 "Hm... This image is too plain... I'll draw a polar bear" - Luvenia Y
+
 *Proceeds to draw a polar bear, which looks like a rat with diabetes with a Peppa pig tail*
+
 "Wait, is it polar bears that live in Antarctica or penguins?" - Luvenia Y
+
 *searches it up, polar bears live in the Arctic*
+
 "Dang it. Fine, I'll draw a penguin" - Luvenia Y
+
 *2 seconds later* "They have ears, right?" - Luvenia Y
 
 
