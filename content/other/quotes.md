@@ -20,6 +20,11 @@ These 2 quotes go together. Mhm. Very suspicious
 4. *walking to Mills (cooking building)* "It smells like sugar biscuits" - Arielle A, "It smells like petrol" - Ellie M
 
 
+> [!notes] 
+> 
+> the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
+
+
 [Highlight Conversation]
 
 -*HASS Worksheet, where you had to talk about a place you have been, and talk about the Ecosystems there*-
