@@ -10,6 +10,6 @@ And then because I'm smart decided that doing Chinese Background (yes I'm Chines
 It was fun.
 
 But then.... half a term later, I accelerated Japanese, and had to drop Chinese.
-Wow, thanks.
+Wow, ik, an inspiring article.
 
 ~
