@@ -21,6 +21,8 @@ These 2 quotes go together. Mhm. Very suspicious
 
 5. *talking to Harry* "why are you infused with bracketerisation" - Kiefer Y; look his name had a bracket after it like 10 times on the document-
 
+6. "so.... $3.50 + $12.10... wait how'd I get 10??" - Donal T
+
 
 > [!notes] 
 > 
