@@ -23,6 +23,8 @@ These 2 quotes go together. Mhm. Very suspicious
 
 6. "so.... $3.50 + $12.10... wait how'd I get 10??" - Donal T
 
+7. "I will throw you out the window" *points to wall*. *The proceeds to trip over a SANDWHICH* - Ethan T
+
 
 > [!notes] 
 > 
