@@ -19,6 +19,8 @@ These 2 quotes go together. Mhm. Very suspicious
 
 4. *walking to Mills (cooking building)* "It smells like sugar biscuits" - Arielle A, "It smells like petrol" - Ellie M
 
+5. *talking to Harry* "why are you bracketed" - Kiefer Y; look his name had a bracket after it like 10 times on the document-
+
 
 > [!notes] 
 > 
