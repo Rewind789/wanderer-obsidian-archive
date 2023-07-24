@@ -194,6 +194,8 @@ These 2 quotes go together. Mhm. Very suspicious
 143. “What brain” - Donal T
 
 [Look, I know I missed 144, but there was a ~~inappropriate~~ suspicious quote here]
+
+
 145. “Not because they’re communist” - Ms James
 146. “The kid has cancer” - Kevin Y
 147. “Why is it important to manipulate people? There you have it that’s how capitalism works” - Ms James
