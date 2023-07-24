@@ -190,6 +190,7 @@ These 2 quotes go together. Mhm. Very suspicious
 141. _talking to Dodo_ “OIAHGOIAIS to you too?” - Rutvi K
 142. “Kiefer, being the amazing person he is…” _he was begging me to send him my code_ (-From Kiefer) - Donal T (i was not i was being completely serious mhm definitely - Donal T)
 143. “What brain” - Donal T
+
 [Look, I know I missed 144, but there was a ~~inappropriate~~ suspicious quote here]
 145. “Not because they’re communist” - Ms James
 146. “The kid has cancer” - Kevin Y
