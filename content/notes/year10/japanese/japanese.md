@@ -1,10 +1,9 @@
 ---
-title: Japanese Archive
+title: Japanese
 enableToc: false
 ---
 
-### Japanese Archive
-I accelerated Japanese, so my [Year 10 Japanese notes](notes/year10/japanese/japanese) are updated a year early.
+Well, I accelerated Japanese, so my year 10 notes are here a year earlier ig
 
 >[!Examples] Content
 >
