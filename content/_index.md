@@ -36,6 +36,7 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 - Email me at ky.yuen2009@gmail.com
 - [Shan-mei](https://shanmeis-notes.toomwn.xyz/)
 - [Donal Tony (The Merchant of Harzavad)](https://harzavad.github.io/the-merchant/)
+- [Pythagoras (and chickens)](https://pi-thagoras.github.io/the-chicken-pen/)
 - [Edward (and his obsidian notes)](https://edsobsidiannotes.netlify.app/)
 - [Ajay](https://rjdjcool3.github.io/baju-s/)
 - [M.Spiccata](https://spicata.99000000.xyz/)
