@@ -26,7 +26,7 @@ These 2 quotes go together. Mhm. Very suspicious
 7. "I will throw you out the window" *points to wall*. *The proceeds to trip over a SANDWHICH* - Ethan T
 
 
-> [!notes] 
+> [!notes] The Great Avocado Analogy
 > 
 > the ~~great~~ avocado analogy “It’s like putting bread with an avocado and saying you’re allergic to the bread when you’re allergic to the avocado” - Ethan T
 
