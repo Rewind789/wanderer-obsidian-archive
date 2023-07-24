@@ -119,7 +119,7 @@ Ionic compound = metal + non-metal
 
 ### Precipitation Reactions
 
->[! notes] Steps
+>[!notes] Steps
 >
 >1. Write out the equation, and balance it
 >2. Split all (aq) substances into their ions as they split
