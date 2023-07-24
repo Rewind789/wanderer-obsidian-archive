@@ -11,3 +11,6 @@ Not all vocab is listed here yet, I may not have updated it.
 >[しゅうがくりょこう](schooltrip.md)
 
 
+> [!summaries] Grammar Structures
+> 
+> [ぶんぽう](notes/year10/japanese/grammar)

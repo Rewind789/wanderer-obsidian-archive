@@ -8,6 +8,6 @@ I accelerated Japanese, so my [Year 10 Japanese notes](notes/year10/japanese/jap
 
 >[!Examples] Content
 >
->[Vocabulary & Grammar](vocabulary.md)
+>[Grammar & Vocab](grammar9.md)
 
 Ask me for flashcards, my email is [ky.yuen2009@gmail.com](ky.yuen2009@gmail.com). I'll send them if I see your email :/
