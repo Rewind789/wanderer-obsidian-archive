@@ -12,4 +12,4 @@ It was fun.
 But then.... half a term later, I accelerated Japanese, and had to drop Chinese.
 Wow, ik, an inspiring article.
 
-~
+[unfinished]
