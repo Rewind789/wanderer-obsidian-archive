@@ -35,7 +35,7 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 ### Other Town Members
 - Email me at ky.yuen2009@gmail.com
 - [Shan-mei](https://shanmeis-notes.toomwn.xyz/)
-- [Donal Tony (The Merchant of Harzavad)](https://harzavad.github.io/the-merchant/)
+- ~~Some Idiot~~ **I mean...**[Donal Tony](https://harzavad.github.io/the-merchant/)
 - [Pythagoras (and his chicken pen)](https://pi-thagoras.github.io/the-chicken-pen/)
 - [Edward (and his obsidian notes)](https://edsobsidiannotes.netlify.app/)
 - ~~How could i forget littleroot~~ **ahem** [Littleroot](https://littleroot.toomwn.xyz/)
