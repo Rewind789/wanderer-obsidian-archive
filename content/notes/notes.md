@@ -24,6 +24,6 @@ Here you can find my notes on stuff I learnt on my many adventures.
 
 ### Year 10
 
-> [!notes] Content
+> [!examples] Content
 > 
 > [Japanese](notes/year10/japanese/japanese)

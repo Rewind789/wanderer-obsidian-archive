@@ -3,6 +3,8 @@ title: Quotes
 enableToc: false
 ---
 
+> [!quote] Quotes Page
+
 ## Highlight Quote
 These 2 quotes go together. Mhm. Very suspicious
 
