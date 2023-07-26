@@ -29,6 +29,13 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 >[Other](other/other.md)
 >
 
+## Updates - 26/7
+- Japanese notes (yr 10): half-done
+- Science notes: chemistry caught up
+- Math: i havent even started...
+- Music: no
+- Food tech: probably even worse (i havent made a page for it)
+- English: horrible ***NO*
 
 
 
