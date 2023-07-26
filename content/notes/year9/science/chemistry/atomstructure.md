@@ -3,6 +3,9 @@ title: Atomic Structure
 enableToc: false
 ---
 
+# Atom Structure
+#chemistry
+
 Diatomic elements
 
 - Br2, I2, N2, Cl2, H2, O2, F2 → only in pairs or in compounds. They are never found alone.

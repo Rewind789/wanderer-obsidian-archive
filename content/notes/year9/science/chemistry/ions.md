@@ -2,7 +2,8 @@
 title: Ions Subsection
 enableToc: false
 ---
-### Here is a list of ions for Year 9
+
+# Here is a list of ions for Year 9
 1st column; + charge
 
 2nd column; 2+ charge
