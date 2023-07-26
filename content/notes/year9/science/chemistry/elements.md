@@ -3,6 +3,7 @@ title: Elements
 enableToc: false
 ---
 
+# Elements
 98 naturally occurring elements
 Only 12 elements are found in living organisms in substantial amounts
 Four elements make up to 96.3% of human weight → carbon, hydrogen, oxygen, nitrogen

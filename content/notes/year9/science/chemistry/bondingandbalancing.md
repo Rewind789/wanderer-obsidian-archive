@@ -3,12 +3,14 @@ title: Bonding Balancing
 enableToc: false
 ---
 
+# Bonding and Balancing Molecules
 Atoms vs Molecules
 
 - Elements can exist as either single atoms or as molecules
 - A molecule consists of two or more atoms chemically joined together. The number of atoms in a molecule varies from substance to substance
 
-Elements vs compounds
+
+### Elements vs compounds
 
 - If more than one type of atom is chemically combined, it is a compound
 - Chemical bond
@@ -24,7 +26,7 @@ Ionic bond
 - Ionic bond (transfer)
     - Share electrons - balancing the equation
 
-Ions
+### Ions
 
 - Positive ions; lose proton —> cation
 - The number of electrons lost is the amount of positive charge

@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Atom Structure
-#chemistry
+
 
 Diatomic elements
 
@@ -43,7 +43,7 @@ Atomic structure
     - Full outer shells → noble gasses. They do not bond with any element
 
 ---
-
+### Elements
 Elements
 
 - Made of atoms with same number of protons in nucleus

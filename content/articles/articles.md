@@ -2,6 +2,8 @@
 title: Articles
 enableToc: false
 ---
+# Articles
+Written here. Are my articles. Mind-blowing.
 
 > [!summaries] Content
 > 

@@ -3,10 +3,10 @@ title: Text Structures
 enableToc: false
 ---
 
-## Text Structures
+# Text Structures
 Text Structures to know...
 
-##### Account Writing
+### Account Writing
 An account is a personal experience (sort of like an article).
 字 count is around ~350
 2-3 points of what to include (usually 1 per paragraph)

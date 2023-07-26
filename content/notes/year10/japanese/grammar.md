@@ -2,7 +2,7 @@
 title: ぶんぽう
 enableToc: false
 ---
-## Japanese Year 10 Grammar Structures
+# Japanese Year 10 Grammar Structures
 
 ##### ～たり　～たり
 Just like て form, たりたり form is also used to verbs. 

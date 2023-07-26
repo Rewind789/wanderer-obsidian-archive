@@ -3,7 +3,9 @@ title: Physical and Chemical Change
 enableToc: false
 ---
 
-**************************************Chemical Properties**************************************
+# Physical & Chemical Changes
+
+### **************************************Chemical Properties**************************************
 
 Chemical properties is the “potential” for it to undergo some chemical change reaction by virtue of its composition
 
@@ -50,7 +52,7 @@ Evidence of chemical changes
 
 ---
 
-Types of Chemical Reactions
+### Types of Chemical Reactions
 
 ![Reactions](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbyjus.com%2Fchemistry%2Ftypes-of-chemical-reactions%2F&psig=AOvVaw1y3Fbv0hKELOtSmriKn_HQ&ust=1689909863944000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDH3fuqnIADFQAAAAAdAAAAABAE)
 
