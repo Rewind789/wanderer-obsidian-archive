@@ -8,6 +8,8 @@ _[A page of his diary, of his adventures to every place on Earth. With every exp
 Welcome to the Wanderer's Archive! Browse around the endless library of scrolls!
 
 I AM NOT GENSHIN RELATED
+
+
 why is this not syncing argh
 
 >[!info] Creation
@@ -49,3 +51,4 @@ Here are my [notes](notes/notes), where you can find my vast inventory of librar
 - [Ajay](https://rjdjcool3.github.io/baju-s/)
 - [M.Spiccata](https://spicata.99000000.xyz/)
 - I haven't done the others yet :/
+my email is ky.yuen2009@gmail.com email me about stuff if u want, argh this stupid thing says [email protected]
