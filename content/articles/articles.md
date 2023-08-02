@@ -5,7 +5,7 @@ enableToc: false
 # Articles
 Written here. Are my articles. Mind-blowing.
 
-> [!summaries] Content
+> [!tip] Content
 > 
 > [Chinese and Japanese](chinese&jap.md)
 > 
