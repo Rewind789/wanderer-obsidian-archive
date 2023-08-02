@@ -7,5 +7,5 @@ Welcome to the Science Archive.
 
 > [!notes] Science Content
 > 
-> [Chemistry](notes/year9/science/chemistry/chemistry.md) 
+> [Chemistry](chemistry.md) 
 

@@ -13,4 +13,4 @@ Not all vocab is listed here yet, I may not have updated it.
 
 > [!summaries] Grammar Structures
 > 
-> [ぶんぽう](notes/year10/japanese/grammar)
+> [ぶんぽう](grammar.md)

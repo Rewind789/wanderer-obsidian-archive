@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 ### Japanese Archive
-I accelerated Japanese, so my [Year 10 Japanese notes](notes/year10/japanese/japanese) are updated a year early.
+I accelerated Japanese, so my [Year 10 Japanese notes](year10/japanese/japanese.md) are updated a year early.
 
 >[!Examples] Content
 >

@@ -14,16 +14,18 @@ Here you can find my notes on stuff I learnt on my many adventures.
 ### Year 9
 > [!Examples] Content
 > 
-> [Science](notes/year9/science-content.md)
+> [Science](year9/science-content)
 > 
-> [Mathematics](notes/year9/math/mathematics)
+> [Mathematics](year9/maths/)
 > 
-> [Japanese](notes/year9/japanese/japanese)
+> [Japanese](year9/japanese/japanese.md)
 > 
-> [Music](notes/year9/music/music)
+> [Music](year9/music/music)
+
+
 
 ### Year 10
 
 > [!examples] Content
 > 
-> [Japanese](notes/year10/japanese/japanese)
+> [Japanese](year10/japanese/japanese.md)
