@@ -16,7 +16,7 @@ Here you can find my notes on stuff I learnt on my many adventures.
 > 
 > [Science](year9/science-content)
 > 
-> [Mathematics](year9/maths/)
+> [Mathematics](year9/math/maths)
 > 
 > [Japanese](year9/japanese/japanese.md)
 > 
