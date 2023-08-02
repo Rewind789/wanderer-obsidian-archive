@@ -2,6 +2,7 @@
 title: ぶんぽう
 enableToc: false
 ---
+#japanese
 # Japanese Year 10 Grammar Structures
 
 ##### ～たり　～たり

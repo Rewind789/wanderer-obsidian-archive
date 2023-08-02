@@ -2,7 +2,7 @@
 title: Japanese Vocabulary & Grammar
 enableToc: false
 ---
-
+#japanese 
 ### Vocab & Grammar
 Not all vocab is listed here yet, I may not have updated it.
 

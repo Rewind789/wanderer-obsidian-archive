@@ -2,7 +2,7 @@
 title: Text Structures
 enableToc: false
 ---
-
+#japanese 
 # Text Structures
 Text Structures to know...
 
