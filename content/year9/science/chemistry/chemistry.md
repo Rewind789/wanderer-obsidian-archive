@@ -3,7 +3,7 @@ title: Chemistry Section
 enableToc: false
 ---
 
-> ![notes] Content
+> [!notes] Content
 > 
 > [Ions List](ions.md)
 > 
